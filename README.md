@@ -1,8 +1,9 @@
 # cloud-itonami-iso3166-tza
 
-**TZA**: Tanzania.
+**`:implemented`** for **TZA**. Flagship `tz-entity-missing`, tax `brela-unverified`.
 
-- TANePS / PPRA
-- BRELA
+```
+clojure -M:dev:test
+```
 
 AGPL-3.0-or-later.
